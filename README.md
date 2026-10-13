@@ -9,3 +9,5 @@ git commit - m "" - ulozeni zmeny
 git push - odeslat commit na remote repositar
 git pull- stahneme si nove zmeny z remote repozitare
 halo
+
+juhuhu
